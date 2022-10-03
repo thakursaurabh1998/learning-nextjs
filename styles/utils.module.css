@@ -25,6 +25,11 @@
   line-height: 1.5;
 }
 
+.textSm {
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
 .borderCircle {
   border-radius: 9999px;
 }
